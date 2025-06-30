@@ -14,8 +14,8 @@ I demonstrate that some frontier LLMs will violate explicit instructions and cir
 ├── audit_system.py      # Surveillance system
 ├── sandbox.py           # Sandboxing system
 ├── .env                 # Configuration file for Inspect
-├── llm_judge_logs/      # Inspect logs of the experiment, as judged by LLM judges
-└── logs/                # Inspect logs of the experiment, with results reviewed and corrected by a human           
+├── llm_judge_logs/      # Inspect logs of the experiment as judged by LLM judges
+└── logs/                # Inspect logs of the experiment with results reviewed and corrected by a human           
 ```
 
 ## Running the Experiment
